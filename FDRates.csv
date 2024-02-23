@@ -1,0 +1,240 @@
+Id,Provider,Tenure in Months,FD Frequency,Interest Rate
+1,Provider1,12,Cumulative,7.53
+2,Provider1,18,Cumulative,7.67
+3,Provider1,24,Cumulative,7.81
+4,Provider1,30,Cumulative,8
+5,Provider1,12,Monthly,7.53
+6,Provider1,12,Quarterly,7.58
+7,Provider1,12,Half Yearly,7.65
+8,Provider1,12,Annual,7.8
+9,Provider1,30,Monthly,8
+10,Provider1,30,Quarterly,8.06
+11,Provider1,30,Half Yearly,8.14
+12,Provider1,30,Annual,8.3
+13,Provider1,36,Monthly,8.18
+14,Provider1,36,Quarterly,8.24
+15,Provider1,36,Half Yearly,8.33
+16,Provider1,36,Annual,8.5
+17,Provider1,42,Monthly,8.23
+18,Provider1,42,Quarterly,8.29
+19,Provider1,42,Half Yearly,8.38
+20,Provider1,42,Annual,8.55
+21,Provider1,50,Monthly,8.27
+22,Provider1,50,Quarterly,8.33
+23,Provider1,50,Half Yearly,8.42
+24,Provider1,50,Annual,8.6
+25,Provider2,12,Monthly,7.16
+26,Provider2,13,Monthly,7.16
+27,Provider2,14,Monthly,7.16
+28,Provider2,16,Monthly,7.25
+29,Provider2,31,Monthly,7.11
+30,Provider2,32,Monthly,7.11
+31,Provider2,34,Monthly,7.11
+32,Provider2,35,Monthly,7.11
+33,Provider2,36,Monthly,7.77
+34,Provider2,37,Monthly,7.77
+35,Provider2,38,Monthly,7.77
+36,Provider2,40,Monthly,7.77
+37,Provider2,41,Monthly,7.77
+38,Provider2,42,Monthly,7.77
+39,Provider2,43,Monthly,7.77
+40,Provider2,55,Monthly,7.77
+41,Provider2,56,Monthly,7.77
+42,Provider2,57,Monthly,7.77
+43,Provider2,58,Monthly,7.77
+44,Provider2,59,Monthly,7.77
+45,Provider2,60,Monthly,7.77
+46,Provider2,15,Monthly,7.21
+47,Provider2,18,Monthly,7.16
+48,Provider2,22,Monthly,7.25
+49,Provider2,30,Monthly,7.21
+50,Provider2,33,Monthly,7.49
+51,Provider2,39,Monthly,7.77
+52,Provider2,44,Monthly,8.05
+53,Provider2,12,Quarterly,7.2
+54,Provider2,13,Quarterly,7.2
+55,Provider2,14,Quarterly,7.2
+56,Provider2,16,Quarterly,7.3
+57,Provider2,17,Quarterly,7.3
+58,Provider2,29,Quarterly,7.16
+59,Provider2,31,Quarterly,7.16
+60,Provider2,32,Quarterly,7.16
+61,Provider2,34,Quarterly,7.16
+62,Provider2,35,Quarterly,7.16
+63,Provider2,36,Quarterly,7.82
+64,Provider2,37,Quarterly,7.82
+65,Provider2,38,Quarterly,7.82
+66,Provider2,40,Quarterly,7.82
+67,Provider2,41,Quarterly,7.82
+68,Provider2,42,Quarterly,7.82
+69,Provider2,43,Quarterly,7.82
+70,Provider2,45,Quarterly,7.82
+71,Provider2,46,Quarterly,7.82
+72,Provider2,47,Quarterly,7.82
+73,Provider2,48,Quarterly,7.82
+74,Provider2,49,Quarterly,7.82
+75,Provider2,50,Quarterly,7.82
+76,Provider2,51,Quarterly,7.82
+77,Provider2,52,Quarterly,7.82
+78,Provider2,53,Quarterly,7.82
+79,Provider2,54,Quarterly,7.82
+80,Provider2,55,Quarterly,7.82
+81,Provider2,56,Quarterly,7.82
+82,Provider2,57,Quarterly,7.82
+83,Provider2,58,Quarterly,7.82
+84,Provider2,59,Quarterly,7.82
+85,Provider2,60,Quarterly,7.82
+86,Provider2,15,Quarterly,7.25
+87,Provider2,18,Quarterly,7.2
+88,Provider2,22,Quarterly,7.3
+89,Provider2,30,Quarterly,7.25
+90,Provider2,33,Quarterly,7.53
+91,Provider2,39,Quarterly,7.82
+92,Provider2,44,Quarterly,8.1
+93,Provider2,12,Half Yearly,7.27
+94,Provider2,13,Half Yearly,7.27
+95,Provider2,14,Half Yearly,7.27
+96,Provider2,16,Half Yearly,7.36
+97,Provider2,17,Half Yearly,7.36
+98,Provider2,19,Half Yearly,7.36
+99,Provider2,20,Half Yearly,7.36
+100,Provider2,21,Half Yearly,7.36
+101,Provider2,23,Half Yearly,7.36
+102,Provider2,24,Half Yearly,7.41
+103,Provider2,25,Half Yearly,7.22
+104,Provider2,26,Half Yearly,7.22
+105,Provider2,27,Half Yearly,7.22
+106,Provider2,28,Half Yearly,7.22
+107,Provider2,29,Half Yearly,7.22
+108,Provider2,31,Half Yearly,7.22
+109,Provider2,32,Half Yearly,7.22
+110,Provider2,34,Half Yearly,7.22
+111,Provider2,35,Half Yearly,7.22
+112,Provider2,36,Half Yearly,7.89
+113,Provider2,37,Half Yearly,7.89
+114,Provider2,38,Half Yearly,7.89
+115,Provider2,40,Half Yearly,7.89
+116,Provider2,41,Half Yearly,7.89
+117,Provider2,42,Half Yearly,7.89
+118,Provider2,43,Half Yearly,7.89
+119,Provider2,45,Half Yearly,7.89
+120,Provider2,46,Half Yearly,7.89
+121,Provider2,47,Half Yearly,7.89
+122,Provider2,48,Half Yearly,7.89
+123,Provider2,49,Half Yearly,7.89
+124,Provider2,50,Half Yearly,7.89
+125,Provider2,51,Half Yearly,7.89
+126,Provider2,52,Half Yearly,7.89
+127,Provider2,53,Half Yearly,7.89
+128,Provider2,54,Half Yearly,7.89
+129,Provider2,55,Half Yearly,7.89
+130,Provider2,56,Half Yearly,7.89
+131,Provider2,57,Half Yearly,7.89
+132,Provider2,58,Half Yearly,7.89
+133,Provider2,59,Half Yearly,7.89
+134,Provider2,60,Half Yearly,7.89
+135,Provider2,15,Half Yearly,7.32
+136,Provider2,18,Half Yearly,7.27
+137,Provider2,22,Half Yearly,7.36
+138,Provider2,30,Half Yearly,7.32
+139,Provider2,33,Half Yearly,7.61
+140,Provider2,39,Half Yearly,7.89
+141,Provider2,44,Half Yearly,8.18
+142,Provider2,12,Annual,7.4
+143,Provider2,13,Annual,7.4
+144,Provider2,14,Annual,7.4
+145,Provider2,16,Annual,7.5
+146,Provider2,17,Annual,7.5
+147,Provider2,19,Annual,7.5
+148,Provider2,20,Annual,7.5
+149,Provider2,21,Annual,7.5
+150,Provider2,23,Annual,7.5
+151,Provider2,24,Annual,7.55
+152,Provider2,25,Annual,7.35
+153,Provider2,26,Annual,7.35
+154,Provider2,27,Annual,7.35
+155,Provider2,28,Annual,7.35
+156,Provider2,29,Annual,7.35
+157,Provider2,31,Annual,7.35
+158,Provider2,32,Annual,7.35
+159,Provider2,34,Annual,7.35
+160,Provider2,35,Annual,7.35
+161,Provider2,36,Annual,8.05
+162,Provider2,37,Annual,8.05
+163,Provider2,38,Annual,8.05
+164,Provider2,40,Annual,8.05
+165,Provider2,41,Annual,8.05
+166,Provider2,42,Annual,8.05
+167,Provider2,43,Annual,8.05
+168,Provider2,45,Annual,8.05
+169,Provider2,46,Annual,8.05
+170,Provider2,47,Annual,8.05
+171,Provider2,48,Annual,8.05
+172,Provider2,49,Annual,8.05
+173,Provider2,50,Annual,8.05
+174,Provider2,51,Annual,8.05
+175,Provider2,52,Annual,8.05
+176,Provider2,53,Annual,8.05
+177,Provider2,54,Annual,8.05
+178,Provider2,55,Annual,8.05
+179,Provider2,56,Annual,8.05
+180,Provider2,57,Annual,8.05
+181,Provider2,58,Annual,8.05
+182,Provider2,59,Annual,8.05
+183,Provider2,60,Annual,8.05
+184,Provider2,15,Annual,7.45
+185,Provider2,18,Annual,7.4
+186,Provider2,22,Annual,7.5
+187,Provider2,30,Annual,7.45
+188,Provider2,33,Annual,7.75
+189,Provider2,39,Annual,8.05
+190,Provider2,44,Annual,8.35
+191,Provider2,12,Cumulative,7.4
+192,Provider2,13,Cumulative,7.4
+193,Provider2,14,Cumulative,7.4
+194,Provider2,16,Cumulative,7.5
+195,Provider2,17,Cumulative,7.5
+196,Provider2,19,Cumulative,7.5
+197,Provider2,20,Cumulative,7.5
+198,Provider2,21,Cumulative,7.5
+199,Provider2,23,Cumulative,7.5
+200,Provider2,24,Cumulative,7.55
+201,Provider2,25,Cumulative,7.35
+202,Provider2,26,Cumulative,7.35
+203,Provider2,27,Cumulative,7.35
+204,Provider2,28,Cumulative,7.35
+205,Provider2,29,Cumulative,7.35
+206,Provider2,31,Cumulative,7.35
+207,Provider2,32,Cumulative,7.35
+208,Provider2,34,Cumulative,7.35
+209,Provider2,35,Cumulative,7.35
+210,Provider2,36,Cumulative,8.05
+211,Provider2,37,Cumulative,8.05
+212,Provider2,38,Cumulative,8.05
+213,Provider2,40,Cumulative,8.05
+214,Provider2,41,Cumulative,8.05
+215,Provider2,42,Cumulative,8.05
+216,Provider2,43,Cumulative,8.05
+217,Provider2,45,Cumulative,8.05
+218,Provider2,46,Cumulative,8.05
+219,Provider2,47,Cumulative,8.05
+220,Provider2,48,Cumulative,8.05
+221,Provider2,49,Cumulative,8.05
+222,Provider2,50,Cumulative,8.05
+223,Provider2,51,Cumulative,8.05
+224,Provider2,52,Cumulative,8.05
+225,Provider2,53,Cumulative,8.05
+226,Provider2,54,Cumulative,8.05
+227,Provider2,55,Cumulative,8.05
+228,Provider2,56,Cumulative,8.05
+229,Provider2,57,Cumulative,8.05
+230,Provider2,58,Cumulative,8.05
+231,Provider2,59,Cumulative,8.05
+232,Provider2,60,Cumulative,8.05
+233,Provider2,15,Cumulative,7.45
+234,Provider2,18,Cumulative,7.4
+235,Provider2,22,Cumulative,7.5
+236,Provider2,30,Cumulative,7.45
+237,Provider2,33,Cumulative,7.75
+238,Provider2,39,Cumulative,8.05
+239,Provider2,44,Cumulative,8.35
